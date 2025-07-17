@@ -11,12 +11,12 @@ Our goal is to:
 - Identify imposters not present in the training set
 
 Paper reference on Eigenfaces:  
-[https://sites.cs.ucsb.edu/~mturk/Papers/mturk-CVPR91.pdf](https://sites.cs.ucsb.edu/~mturk/Papers/mturk-CVPR91.pdf)
+[https://sites.cs.ucsb.edu/~mturk/Papers/mturk-CVPR91.pdf](https://sites.cs.ucsb.edu/~mturk/Papers/mturk-CVPR91.pdf
 
 ## Dataset
 
 The dataset used is available at:
-[https://github.com/robaita/introduction_to_machine_learning/blob/main/dataset.zip](https://github.com/robaita/introduction_to_machine_learning/blob/main/dataset.zip)
+ [https://github.com/robaita/introduction_to_machine_learning/blob/main/dataset.zip](https://github.com/robaita/introduction_to_machine_learning/blob/main/dataset.zip)
 
 - Each person has their own folder.
 - Each folder contains multiple grayscale face images.
@@ -72,8 +72,6 @@ The dataset used is available at:
 
 4. **Projection**  
    Project both training and testing images onto eigenface space.
-
----
 
 ## Image Reconstruction from Eigenfaces (Optional)
 
